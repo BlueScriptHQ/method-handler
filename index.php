@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Parser Test</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
-    <script src="../js/assets/classes/methods-parser.js" charset="utf-8"></script>
+    <script src="js/methods-parser.js" charset="utf-8"></script>
   </head>
   <body>
     <script type="text/javascript">
